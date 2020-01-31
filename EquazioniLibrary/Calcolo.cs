@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EquazioniLibrary
 {
-    public class Class1
+    public class Calcolo
     {
         public static long Fattoriale(int n)
         {
